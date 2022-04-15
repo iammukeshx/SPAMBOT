@@ -1,6 +1,6 @@
 # SPAMBOT
 <p>
-<h2> This Is SpamBot Of <a href="https://telegram.me/LegendBot_XD">@LegendBoy_XD</a> Group</h2>
+<h2> This Is SpamBot Of <a href="https://telegram.me/LegendBot_XD">@LegendBoy_XD</a></h2>
 </p>
 <p align="center">
 <a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
