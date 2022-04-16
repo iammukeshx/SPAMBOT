@@ -1,6 +1,7 @@
 # SPAMBOT
-This is SpamBot Of @LegendBoy_XD Group- https//t.me/LegendBot_OP
-
+<p>
+<h2> This Is SpamBot Of <a href="https://telegram.me/LegendBot_XD">@LegendBoy_XD</a></h2>
+</p>
 <p align="center">
 <a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/LEGEND-AI/SPAMBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGEND-AI/SPAMBOT?style=flat&logo=github" /> </a>
@@ -27,8 +28,6 @@ This is SpamBot Of @LegendBoy_XD Group- https//t.me/LegendBot_OP
 <p align="left">
     <a href="https://github.com/LEGEND-AI/SPAMBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/SPAMBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT?"></a>
 
-
-
 ------------
 <h3> Deploy To Heroku </h3>
 
@@ -38,19 +37,53 @@ This is SpamBot Of @LegendBoy_XD Group- https//t.me/LegendBot_OP
 
 - [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
+--------
+<p>
 
+## 👨‍💻 Commands 👨‍💻
+
+<br>
+
+- <b>```.ping```</b> - To Check The Ping Of The Bots
+
+- <b>```.help```</b> - To Get The Help Message On How To Use The Commands
+
+- <b>```.spam <1-100> <text>```</b> - For Value Between 1-100
+
+- <b>```.bigspam <101-9999> <text>```</b> - For Value Between 100-10000
+
+- <b>```.delayspam <delay> <count> <text>```</b> - To Add The Delay Of Some Time Between Each Message Sending Time 
+
+- <b>```.replyraid <reply to person>```</b> - To Activate Raid For Replied Person
+
+- <b>```.dreplyraid <reply to person>```</b> - To Deactivate Raid For Replied Person
+
+- <b>```.raid <number> <reply to person>```</b> - To Raid The Person You Tagged
+
+- <b>```.restart```</b> - To Restart Your Bots
+
+- <b>```.join <group link/username>```</b> - To Join All The Bots To That Group
+
+- <b>```.leave <group link/username>```</b> - To Leave All The Bots From That Group
+
+- <b>```.pjoin <group link/username>```</b> - To Join All The Bots To Private Group
+
+- <b>```.pleave <group link/username>```</b> - To Leave All The Bots From That Private Group
+<br>
+
+------
 ### To Get Details Of StringSession Follow Step: 
 
     - Go To Telegram Group And Send #api_hash
     - Click Start
-    - Send Ur Phone Number To @UseTGXBot
-    - U Received Code From Telegram Like This=VGFK0rHbzaF
-    - Copy Ur Code
-    - Paste Ur Code in @UseTGXBot
-    - U Received APP ID
+    - Send Your Phone Number To @apiscrapperbot
+    - You Received Code From Telegram Like This:- VGFK0rHbzaF
+    - Copy Your Code
+    - Paste Ur Code in @apiscrapperbot
+    - You Received APP ID & API_HASH
     - Now Run StringSession Given Below:
    
 
-### StringSession
+### Generate Session From Below :-
 
-[![String](https://telegra.ph/file/f13f61a635735dfdf0457.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://telegra.ph/file/dad1e2b98006e52945875.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
