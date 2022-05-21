@@ -1,6 +1,6 @@
 # SPAMBOT
 <p>
-<h2> This Is SpamBot Of <a href="https://telegram.me/LegendBot_XD">@LegendBoy_XD</a></h2>
+<h2> This Is SpamBot Of <a href="https://telegram.me/Iamhackerx007">@X_Aanand_X</a></h2>
 </p>
 <p align="center">
 <a href="https://github.com/LEGEND-AI/SPAMBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGEND-AI/SPAMBOT?style=flat&logo=github&color=success" /> </a>
@@ -17,7 +17,7 @@
 <a href="https://github.com/LEGEND-AI/SPAMBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
-<a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/Iamhackerx007" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 <a href="https://github.com/LEGEND-AI/SPAMBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
@@ -29,15 +29,10 @@
     <a href="https://github.com/LEGEND-AI/SPAMBOT/network/members"><img src="https://img.shields.io/github/forks/LEGEND-AI/SPAMBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGEND-AI/SPAMBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT"></a><p align="left"><a href="https://github.com/LEGEND-AI/SPAMBOT?"></a>
 
 ------------
-<h3> Deploy To Heroku </h3>
+------------
 
-- First Fork This Repo
 
-- Click Below Deploy To Heroku
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
---------
 <p>
 
 ## 👨‍💻 Commands 👨‍💻
